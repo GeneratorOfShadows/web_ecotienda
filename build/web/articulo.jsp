@@ -1,0 +1,1 @@
+<% response.sendRedirect("Articulo?accion=SEL");%>

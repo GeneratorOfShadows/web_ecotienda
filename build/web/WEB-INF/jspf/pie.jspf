@@ -1,0 +1,10 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<footer><hr/>
+            <table class='pie'>
+                <tr>
+                    <td><img src="img/icono4.jpg" alt="" width="50" height="50"/></td>
+                    <td><strong>Direccion:</strong> Santa Clara - Ate 15487 &nbsp;</td>
+                    <td><strong>Telf: </strong>987-654-321 &nbsp;- &nbsp;01-3692581</td>
+            </table>
+        </footer>

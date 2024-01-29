@@ -1,0 +1,12 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<header>
+            <h1><img src="img/planta.jpg" alt="" width="50" height="50"/> TIENDA NATURISTA ECOTIENDA</h1>
+            <a href="index.jsp" >INICIO</a>&nbsp;
+            <a href="Productos.html" >PRODUCTOS</a>&nbsp;
+            <a href="Nosotros.html" >NOSOTROS</a>&nbsp;
+            <a href="cliente.jsp">Mantenimiento de Clientes</a>
+            <a href="proveedor.jsp">Mantenimiento de Proveedores</a>
+             <a href="login.jsp">Inicio de Sesion</a>
+            <hr/>
+        </header>
